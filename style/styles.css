@@ -1,4 +1,21 @@
 @import "../vendor.scss";
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+.saludos-Title {
+font-family: 'Fjalla One', sans-serif;
+  font-size: 100px
+}
+.homeHeader{
+  background:  url("../images/salud-header.jpg") no-repeat;
+  background-size: 100%;
+  color: rgba(255, 255, 255, 0.7);
+  object-fit: fill;
+  font-size: 100%;
+}
+.imageThumb {
+  width: 200px;
+  height: 200px
+}
 
 img {
     width: 100%;

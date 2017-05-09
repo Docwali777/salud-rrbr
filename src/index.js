@@ -15,7 +15,7 @@ const App=()=>{
       <div>
         <Router>
           <div>
-        <Navbar staticTop inverse collapseOnSelect>
+        <Navbar inverse collapseOnSelect>
           <Header>
             <Brand>
                   <Link to='/'>SaluD/Os</Link>

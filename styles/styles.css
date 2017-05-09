@@ -1,7 +1,7 @@
 @import "../vendor.scss";
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 
-h1 {
+.saludos-Title {
   background: orange;
 font-family: 'Fjalla One', sans-serif;
 }
