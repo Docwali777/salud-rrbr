@@ -1,0 +1,27 @@
+@import "../vendor.scss";
+
+img {
+    width: 100%;
+    height: auto;
+}
+.link {
+  margin-left: 30px
+}
+.navLink {
+  display: inline;
+}
+/*.nav-item-link {
+  color: white
+}*/
+.nav-item-link:hover {
+  color: yellow
+}
+.nav-item-link:active {
+  color: white
+}
+a:-webkit-any-link {
+  color: green
+}
+.nav-item-link:visited {
+  color: white
+}
